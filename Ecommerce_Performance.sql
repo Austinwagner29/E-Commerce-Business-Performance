@@ -48,20 +48,15 @@ ORDER BY
   |   2022-01-01   |   2024-12-31   |
 
 
--- Confirmed the dataset spans January 1, 2022 through December 31, 2024. No data quality issues were identified during the initial validation process.
+-- Confirmed the dataset spans from January 1, 2022 through December 31, 2024. No data quality issues were identified during the initial validation process.
   
+
+
 
     =====================================================
       Objective 1:
       Evaluate Sales and profit performance over time.
     =====================================================
-
-
-
-      SOME QUERIES BELOW WERE EXECUTED SEPARATELY FOR 2022, 2023, AND
-            2024 BY MODIFYING THE DATE RANGE IN THE WHERE CLAUSE.
-    ====================================================================
-
 
 
   -- Lets investigate which region had the most sales and the highest profit across all three years. */
@@ -102,10 +97,10 @@ ORDER BY
 +------------+--------+--------------+--------------+
 
  -- -- INSIGHTS:
--- The Western Region recorded the highest performance in both 2023 and 2024. First region to achieve over 1 million in total sales.
--- Results for 2024 reflect the largest difference in total sales and total profit among all regions compared to 2023 and 2022.
--- Northern and southern regions had a similar pattern of significant growth from 2022 to 2023, Then in the year 2024, both regions experienced a sharp decline.
--- The Eastern Region recorded consistent growth in Total Sales from 2022 to 2024. Although profit declined slightly  in 2023, it recovered in 2024, indicating a stable financial performance.
+-- The Western Region recorded the highest performance in both 2023 and 2024, aswell as the first region to achieve over 1 million in total sales.
+-- 2024 showed the largest regional performance gap with a difference of 223,822 between the highest and lowest sales totals and a $40,367.59 difference in profit.
+-- Northern and southern regions had a similar pattern of growth from 2022 to 2023, Then in the year 2024, both regions experienced a decline.
+-- The Eastern Region recorded consistent growth in Total Sales from 2022 to 2024, Indicating a stable and consistant financial performance.
 
 
 
@@ -114,6 +109,11 @@ ORDER BY
       Objective 2:
       Analyze Product and Category Profitability Trends.
     =======================================================
+
+
+      SOME QUERIES BELOW WERE EXECUTED SEPARATELY FOR 2022, 2023, AND
+            2024 BY MODIFYING THE DATE RANGE IN THE WHERE CLAUSE.
+    ====================================================================
 
 
 -- Lets take a look and see what product generates the most profit for each year  */
@@ -184,13 +184,13 @@ QUERY RESULTS for 2024
 | Tablet      | Electronics   | 601                 | 56958.10     |
 | Mouse       | Accessories   | 537                 | 52391.82     |
 +-------------+---------------+---------------------+--------------+
-*/
+
 
    -- -- INSIGHTS:
-  -- Profits for each product shifted noticeably between 2022 and 2024. Keyboards generated the highest total profit in 2022, Camera became a top performing product in 2023, and Monitors ranked first in 2024.
+  -- Profits for each product shifted noticeably between 2022 and 2024. Keyboards generated the highest total profit in 2022, Cameras became a top performing product in 2023, and Monitors ranked first in 2024.
      These changes suggest the highest preforming products evolve over time rather than remaining consistant.
-  -- Camera and Monitor are among the top 3 highest-performing products across all three years.
-
+  -- Cameras and Monitors are among the top 3 highest-performing products across all three years. 
+*/
 
 
   -- Breaking down the top performing product for each year in every region.
@@ -252,6 +252,12 @@ QUERY RESULTS for 2024
  -- in the Southern region, Cameras demonstrated consistancy from 2022 to 2023, with 2023 being the highest profitable item among all regions in all three years.
  -- In 2023, total profits had the smallest range between the lowest and highest profit margins for all regions.
 
+
+
+    ====================================================================================================================================================================================================
+       It could be insightful to further investigate and perform a deeper analysis to discover the factors that influence individual product performance. However, for the simplicity of this report,
+       no single product consistently outperformed the others across all three years, and no clear trends were identified.
+    ====================================================================================================================================================================================================
 
 
 
