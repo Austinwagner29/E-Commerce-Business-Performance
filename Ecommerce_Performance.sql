@@ -105,10 +105,10 @@ ORDER BY
 
 
 
-    =======================================================
-      Objective 2:
-      Analyze Product and Category Profitability Trends.
-    =======================================================
+    ===========================================
+       Objective 2:
+       Analyze Product Profitability Trends.
+    ===========================================
 
 
       SOME QUERIES BELOW WERE EXECUTED SEPARATELY FOR 2022, 2023, AND
@@ -261,16 +261,16 @@ QUERY RESULTS for 2024
 
 
 
-    ===============================================================
+    ================================================================================================================
       Objective 3:
-      Identify Monthly Sales Trends and Peak Performance Periods.
-    ===============================================================
+      Identify Monthly Sales Trends and Peak Performance Periods along with individual profit margins by product.
+    ================================================================================================================
 
-  -- After creating a visual in PowerBI for the month to month sales and profit in each year, I used the visual to provide me a better idea of where the trends and patterns happen to investigate further.
+  -- After creating visuals in PowerBI for the month to month sales and profit in each year, I used the visuals to provide me a better idea of where the trends and patterns happen to investigate further.
 
   -- First thing that was noticed was was each year had a drop from January to February, with 2022 and 2024 having the lowest profit out of all 12 calender months.
   -- Next, In both 2023 and 2024, there are upward trends in profit from Novermber to December, with 2023s December recording an all-time high across all three years.
-  -- August 2023 outperformed the same month in both 2022 and 2024 before profit declined during September and October.        */
+  -- August 2023 outperformed the same month in both 2022 and 2024 before profit declined during September and October.     */
 
 
 
@@ -362,7 +362,7 @@ QUERY RESULTS for Profit Difference between Novemeber and December (2022-2024)
  -- In 2023, November to December recorded the largest month over month profit increase across all three years.
  -- 2022 was the only year that had a decrease in profit even with an increase in total sales.
 
- -- Since December of 2023 recorded the highest profit across all three years, it would be worth determing what items generated the highest profit to help replicate this performance. */
+ -- Since December of 2023 recorded the highest profit across all three years, it would be worth determine what items generated the highest profit to help replicate this performance. */
 
 
 
