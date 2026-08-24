@@ -8,9 +8,9 @@ E-Commerce Tech is a North American online retailer specializing in consumer ele
 
 - **Regional Performance:** Analyzed how each region performed among one another to measure where marketing could be most effective.
 
-- **Seasonal Patterns:** Evaluated performance through the year to identify key insights on how holidays/events affect the company.
+- **Highest Performing Month:** Evaluated performance for the highest profit and total sale revenue to effectively highlight the products driving performance.
 
-- **Product Performance:** Analyzed product popularity so assess which product had the highest sales and profit.
+- **Product Performance:** Analyzed product popularity to assess which product had the highest sales and profit.
 
 # Executive Summary
 E-Commerce Tech generated a total profit of **$1.84M** from 2022 to 2024 with over **10 Million** in sales revenue across all products. The Western regions performance demonstrated the strongest in 2023 and 2024 and was the only region that recorded over **1 Million** in total sales. No single product consistently dominated overall performance, with sales and profit leaders changing across years and regions, which indicates that business performance was distributed across multiple products.
@@ -20,16 +20,16 @@ E-Commerce Tech generated a total profit of **$1.84M** from 2022 to 2024 with ov
 ## Performance Over Time Overview
 <img width="1448" height="706" alt="image" src="https://github.com/user-attachments/assets/b5e48400-c4bb-4e5d-880c-17b5a67d3f9d" />
 
-- December 2023 to February 2024, recorded the biggest difference with an all-time high to an all time low in just two months.
+- December 2023 to February 2024, recorded the biggest difference with an all-time high to an all-time low in just two months.
 - August in the year 2023 demonstrated a great monthly profit and sales performance. It could be worth further investigating what key factors drive this type of trend compared to the other years in August.
-- For both 2023 and 2024, the month of December recorded an upward trend, with 2023 recording an all-time-highest performance among all three years. It is important to note that although both of these years experienced  growth in profits, 2022 had a decrease in profits.
+- For both 2023 and 2024, the month of December recorded an upward trend, with 2023 recording an all-time highest performance among all three years. It is important to note that although both of these years experienced  growth in profits, 2022 had a decrease in profits.
 
 ## Sales and Profit Performance
 <img width="1311" height="738" alt="image" src="https://github.com/user-attachments/assets/e4b539c1-ca36-49df-a2e5-cf1cc45bea69" />
 
 - January and December recorded the highest sales to profit relationships across all three years with the month of February drastically under-performing. This is a direct correlation of the drop that happened in 2022 and 2024.
-- Although the month of May didn't show an overly outstanding performance with any all time peaks, it was the only month among all three years to record over **$1 Million** in combined total sales revenue.
-- February performance the worst in 2022 and 2024. Across all three years, February recorded the lowest in profit and total sales revenue, significantly lower then any other month.
+- Although the month of May didn't show an overly outstanding performance with any all-time peaks, it was the only month among all three years to record over **$1 Million** in combined total sales revenue.
+- February performance the worst in 2022 and 2024. Across all three years, February recorded the lowest in profit and total sales revenue, significantly lower than any other month.
 - in 2023, the month of August recorded the highest in total sales across all three years, while December generated the highest total profit. This demonstrates that higher sales revenue does not always result in proportionally higher profit.
 
 ## Regional Performance
@@ -38,13 +38,13 @@ E-Commerce Tech generated a total profit of **$1.84M** from 2022 to 2024 with ov
 - First thing that can be observed is that the western region generated the most profit across all three years while also recording the highest in total sales revenue at just over **$1M** in 2023 and **$1.02M** in 2024.
 - The Northern and Southern regions demonstrated similar trends in total sales revenue with an increase going from 2022 to 2023, then a decrease in the following year of 2024.
 - The Eastern region recorded consistent growth in total sales revenue from 2022 to 2024, increasing from **$842K to $923K.**
-- In 2023, the southern and western region had a difference of rough **$49k** in total sales revenue while also maintaining a *"Neck and neck"* performance, which is another point to validate that sales revenue does not always have a proportional relationship with total profit.
-- In 2024, the Western region out performed every other region in total profit and sales despite recording the all-time low in sales across all three years that happened in February.
+- In 2023, the southern and western region had a difference of roughly **$49k** in total sales revenue while also maintaining a *"Neck and neck"* performance, which is another point to validate that sales revenue does not always have a proportional relationship with total profit.
+- In 2024, the Western region outperformed every other region in total profit and sales despite recording the all-time low in sales across all three years that happened in February.
 
 ## Decembers Upward growth trend
 <img width="1292" height="766" alt="image" src="https://github.com/user-attachments/assets/79256214-d81d-47b7-8275-4bf92c7e7601" />
 
-With December representing the most profitable month from 2023 to 2024, lets investigate which product drives the highest profit.
+With December representing the most profitable month from 2023 to 2024, let's investigate which product drives the highest profit.
 
 **To support this claim, please refer back to the "Sales VS Profit" page in the interact PowerBI dashboard and select the years "2023" and "2024". The Scatterplot chart will reflect December being the most profitable month**
 
