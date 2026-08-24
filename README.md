@@ -48,7 +48,7 @@ E-Commerce Tech generated a total profit of **$1.84M** from 2022 to 2024 with ov
 - In 2023, the Southern and Western region had a difference of roughly **$49k** in total sales revenue while also maintaining a *"Neck-and-neck"* performance, which is another point to validate that sales revenue does not always have a proportional relationship with total profit.
 - In 2024, the Western region outperformed every other region in total profit and sales despite recording the all-time low in sales across all three years that happened in February.
 
-## December's Upward Growth trend
+## December's Upward Growth Trend
 <img width="1292" height="766" alt="image" src="https://github.com/user-attachments/assets/79256214-d81d-47b7-8275-4bf92c7e7601" />
 
 With December representing the most profitable month from 2023 to 2024, let's investigate which product drives the highest profit.
