@@ -29,7 +29,7 @@ E-Commerce Tech generated a total profit of **$1.84M** from 2022 to 2024 with ov
 
 - January and December recorded the highest sales to profit relationships across all three years with the month of February drastically under-performing. This is a direct correlation of the drop that happened in 2022 and 2024.
 - Although the month of May didn't show an overly outstanding performance with any all-time peaks, it was the only month among all three years to record over **$1 Million** in combined total sales revenue.
-- February performance the worst in 2022 and 2024. Across all three years, February recorded the lowest in profit and total sales revenue, significantly lower than any other month.
+- February recorded the weakest performance in 2022 and 2024. Across all three years, it consistently generated the lowest profit and total sales revenue compared to all other months.
 - in 2023, the month of August recorded the highest in total sales across all three years, while December generated the highest total profit. This demonstrates that higher sales revenue does not always result in proportionally higher profit.
 
 ## Regional Performance
