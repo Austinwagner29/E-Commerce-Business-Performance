@@ -3,6 +3,13 @@
 # E-Commerce Tech Executive Report
 E-Commerce Tech is a North American online retailer specializing in consumer electronics, including headphones, cameras, laptops, and many more. E-Commerce Tech operates through a digital marketplace where a variety of products from manufacturers can be purchased to meet customers' needs. With operations spanning across the United States, Canada, and Mexico, E-Commerce Tech strives to expand the company, increase marketing efficiency, and prioritize customer satisfaction and retention through discounts and a loyalty program.
 
+<br>
+
+
+For an interactive Power BI Dashboard, click [Here](https://github.com/Austinwagner29/E-Commerce-Business-Performance/blob/main/Executive%20Summary%20Dashboard.pbix).
+
+A SQL file for insights surfacing could be reviewed [Here](https://github.com/Austinwagner29/E-Commerce-Business-Performance/blob/main/Ecommerce_Performance.sql).
+
 # Project Overview
 - **Sales and Profit Trends:** Focused on overall sales and profit from month to month and year over year growth.
 
@@ -13,7 +20,7 @@ E-Commerce Tech is a North American online retailer specializing in consumer ele
 - **Product Performance:** Analyzed product popularity to assess which product had the highest sales and profit.
 
 # Executive Summary
-E-Commerce Tech generated a total profit of **$1.84M** from 2022 to 2024 with over **10 Million** in sales revenue across all products. The Western regions performance demonstrated the strongest in 2023 and 2024 and was the only region that recorded over **1 Million** in total sales. No single product consistently dominated overall performance, with sales and profit leaders changing across years and regions, which indicates that business performance was distributed across multiple products.
+E-Commerce Tech generated a total profit of **$1.84M** from 2022 to 2024 with over **$10 Million** in sales revenue across all products. The Western regions performance demonstrated the strongest in 2023 and 2024 and was the only region that recorded over **$1 Million** in total sales. No single product consistently dominated overall performance, with sales and profit leaders changing across years and regions, which indicates that business performance was distributed across multiple products.
 
 # Performance Report Insights
 
@@ -30,27 +37,27 @@ E-Commerce Tech generated a total profit of **$1.84M** from 2022 to 2024 with ov
 - January and December recorded the highest sales to profit relationships across all three years with the month of February drastically under-performing. This is a direct correlation of the drop that happened in 2022 and 2024.
 - Although the month of May didn't show an overly outstanding performance with any all-time peaks, it was the only month among all three years to record over **$1 Million** in combined total sales revenue.
 - February recorded the weakest performance in 2022 and 2024. Across all three years, it consistently generated the lowest profit and total sales revenue compared to all other months.
-- in 2023, the month of August recorded the highest in total sales across all three years, while December generated the highest total profit. This demonstrates that higher sales revenue does not always result in proportionally higher profit.
+- In 2023, the month of August recorded the highest in total sales across all three years, while December generated the highest total profit. This demonstrates that higher sales revenue does not always result in proportionally higher profit.
 
 ## Regional Performance
 <img width="1311" height="735" alt="image" src="https://github.com/user-attachments/assets/d5768694-63a5-4570-8d98-ab5ff102c2db" />
 
-- First thing that can be observed is that the western region generated the most profit across all three years while also recording the highest in total sales revenue at just over **$1M** in 2023 and **$1.02M** in 2024.
+- First thing that can be observed is that the Western region generated the most profit across all three years while also recording the highest in total sales revenue at just over **$1M** in 2023 and **$1.02M** in 2024.
 - The Northern and Southern regions demonstrated similar trends in total sales revenue with an increase going from 2022 to 2023, then a decrease in the following year of 2024.
 - The Eastern region recorded consistent growth in total sales revenue from 2022 to 2024, increasing from **$842K to $923K.**
-- In 2023, the southern and western region had a difference of roughly **$49k** in total sales revenue while also maintaining a *"Neck and neck"* performance, which is another point to validate that sales revenue does not always have a proportional relationship with total profit.
+- In 2023, the Southern and Western region had a difference of roughly **$49k** in total sales revenue while also maintaining a *"Neck-and-neck"* performance, which is another point to validate that sales revenue does not always have a proportional relationship with total profit.
 - In 2024, the Western region outperformed every other region in total profit and sales despite recording the all-time low in sales across all three years that happened in February.
 
-## Decembers Upward growth trend
+## December's Upward growth trend
 <img width="1292" height="766" alt="image" src="https://github.com/user-attachments/assets/79256214-d81d-47b7-8275-4bf92c7e7601" />
 
 With December representing the most profitable month from 2023 to 2024, let's investigate which product drives the highest profit.
 
-**To support this claim, please refer back to the "Sales VS Profit" page in the interact PowerBI dashboard and select the years "2023" and "2024". The Scatterplot chart will reflect December being the most profitable month**
+**To support this claim, please refer back to the "Sales VS Profit" page in the interact Power BI dashboard and select the years "2023" and "2024". The Scatterplot chart will reflect December being the most profitable month**
 
 <br>
 
-- The highest recorded profit among all products were Laptops in 2023, with a total profit of **$12.5k**, while Laptops only reported a total profit of **$6.3k** in 2024.
+- The highest recorded profit among all products was generated by Laptops 2023, with a total profit of **$12.5k**, while Laptops only reported a total profit of **$6.3k** in 2024.
 - Headphones recorded the top product in total sales for both years with **$105k**, while Laptops recorded the most profit at **$18.8k**
 - Tablets demonstrated consistent sales numbers across both years while also maintaining a competitive product and finishing in the top 5.
 - Although Headphones generated the highest total sales revenue, they ranked second in total profit. Conversely, Laptops generated less sales revenue but produced the highest total profit.
@@ -58,15 +65,15 @@ With December representing the most profitable month from 2023 to 2024, let's in
 ## Product Performance and trends
 <img width="1303" height="745" alt="image" src="https://github.com/user-attachments/assets/e7ce2a7b-ca4a-4c86-b4c4-72ca3c1e7ea4" />
 
-- Across all three years, Cameras reported to be the most profitable with **$207.6k** and a total sales Revenue of **$1.17M**
+- Across all three years, Cameras were the most profitable with **$207.6k** and a total sales revenue of **$1.17M**
 - The Southern region had the largest gap in total profit across all three years with Cameras being the most profitable at **$61.8k** and Smartphones recording a low of **$35k** with a difference of around **$26.8k**.
 - The Eastern region demonstrated consistency once again with recording the smallest difference between the most profitable being Smartphone at **$55.3k** and Monitors at **$41.7k** for a difference of roughly **$13.6k**.
-- 2023 is the only years where any product had a total sales revenue greater than **$400k**. Those product being **"Cameras, Monitors, Mouse, and Printers"**, with Laptop falling just short at **$395k**
+- 2023 was the only years where any product had a total sales revenue greater than **$400k**. Those product being **"Cameras, Monitors, Mouse, and Printers"**, with Laptop falling just short at **$395k**
 
 ## Individual Profit Margins
 <img width="1310" height="764" alt="image" src="https://github.com/user-attachments/assets/b8dfd5fe-d567-4c4f-9ddd-80d7278958a6" />
 
-In the previous section of product performance, Cameras recorded the most profitable product across all three years. This chart helps provide information on what product profitability per unit sold instead rather than profits as a whole.
+In the previous section of product performance, Cameras recorded the most profitable product across all three years. This analysis provides additional insight into product profitability per unit sold rather than total profit alone.
 
 - Cameras recorded the strongest profit-per-unit performance among all products, averaging **$115.67** per unit sold across all three years and reaching a high of **$128.85** per unit in 2023.
 - In 2022, Keyboards ranked as the most profitable product; however, performance declined significantly in 2023 and 2024, placing it among the lowest-performing products in both years.
@@ -77,6 +84,6 @@ In the previous section of product performance, Cameras recorded the most profit
 
 As this report covered a variety of patterns and trends, There are a few metrics that really stand out and could be investigated further to provide valuable insight to help answer future business questions.
 
-- With 2023 showing the overall strongest performance year, and the western region demonstrating the strongest region among all other regions, further analysis could identify the key factors contributing to their success and determine whether these factors can be replicated across other years and regions.
-- Although 2022 was the lowest performing year, it was the only year that the eastern region was the top performing region. In the following years of 2023 and 2024, the Eastern region showed consistent and steady growth making its future performance worth monitoring to determine whether it could regain the top position.
+- With 2023 showing the overall strongest performance year, and the Western region demonstrating the strongest region among all other regions, further analysis could identify the key factors contributing to their success and determine whether these factors can be replicated across other years and regions.
+- Although 2022 was the lowest performing year, it was the only year that the Eastern region was the top performing region. In the following years of 2023 and 2024, the Eastern region showed consistent and steady growth making its future performance worth monitoring to determine whether it could regain the top position.
 - Product performance varied considerably across years and regions, with no single product consistently dominating total sales or profit. Cameras demonstrated strong overall performance, leading total sales in 2022 and 2023 and recording the highest overall profit per unit sold at $115.67. However, profit leaders changed each year, with Keyboards ranking highest in 2022, Cameras in 2023, and Monitors in 2024. These changes demonstrate that product performance depends on the metric, year, and region being analyzed rather than being driven by one consistently dominant product.
